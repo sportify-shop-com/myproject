@@ -57,6 +57,7 @@ If you have any questions or need assistance, feel free to contact us via:
 - Live Chat on the website
 
 Thank you for visiting Sportify Shop, and we hope you have an enjoyable shopping experience!
+![WhatsApp Image 2024-06-27 at 22 31 28_3ad52434](https://github.com/sportify-shop-com/demo-repository/assets/174019851/55efddb3-af48-4844-a004-162d191a1e56)
 
 ## Contributors
 
