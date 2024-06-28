@@ -66,3 +66,4 @@ Thank you for visiting Sportify Shop, and we hope you have an enjoyable shopping
 - *Name 4* - Content Manager :Baraa Hassan Wasfi Alribi
   ![WhatsApp Image 2024-06-27 at 22 31 28_3ad52434](https://github.com/sportify-shop-com/demo-repository/assets/174019851/55efddb3-af48-4844-a004-162d191a1e56)
   [Sportify, Shop..pdf](https://github.com/user-attachments/files/16023665/Sportify.Shop.pdf)
+https://github.com/sportify-shop-com/myproject/issues/2
