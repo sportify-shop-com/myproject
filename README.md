@@ -19,6 +19,10 @@ Sportify is an online store specializing in the sale of a wide variety of sports
 - *Sports Apparel*: T-shirts, sports pants, shoes, sports accessories.
 - *Sports Equipment*: Footballs, tennis rackets, boxing gloves, and more.
 
+## Mobil App
+https://www.figma.com/design/zmmEPPsyNJH8xASAzWGANL/prpject-LDCW?m=dev&node-id=0-1&t=sUcEjt2LFUDqXdQJ-1
+
+
 ## Getting Started
 
 1. *Browse Products*: Explore all products by browsing different categories on the website.
