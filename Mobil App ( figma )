@@ -1,1 +1,19 @@
-https://github.com/sportify-shop-com/myproject/issues/1
+#Mobil App 
+Overview
+Sportify Shop is a mobile e-commerce application designed to enhance the online shopping experience for fitness enthusiasts. The app features a user-friendly interface with intuitive navigation, allowing users to easily browse, select, and purchase sports and fitness products.
+
+Features
+User Authentication: Secure login and registration process.
+Product Browsing: View various categories of fitness equipment, clothing, and accessories.
+Product Details: Detailed product information with images, sizes, colors, and ratings.
+Shopping Cart: Add and manage items in the cart with a simple checkout process.
+Payment Integration: Multiple payment options including credit/debit cards and online banking.
+Promotions: Interactive spin-the-wheel feature for discounts and special offers.
+Screenshots
+Login Screen: User authentication with email/password and social media login options.
+Home Screen: Browse categories like exercise kits, t-shirts, and more.
+Product Details: Detailed view of products with options to select size, color, and quantity.
+My Cart: Summary of selected items with total cost and shipping details.
+Payment: Secure checkout with various payment methods.
+Promotions: Engage users with a spin-the-wheel game for discounts.
+( https://www.figma.com/design/zmmEPPsyNJH8xASAzWGANL/prpject-LDCW?m=dev&node-id=0-1&t=sUcEjt2LFUDqXdQJ-1 )
